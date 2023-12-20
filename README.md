@@ -1,1 +1,1 @@
-Bug fix in progress
+Update from clone repository
